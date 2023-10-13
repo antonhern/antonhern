@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antonhern
 - 👀 I’m interested in sharing some coding projects
-- 🌱 I’m currently learning how to work with c#
+- 🌱 I’m currently learning how to work with javascript
 - 💞️ I’m looking to collaborate on any coding projects!
 - 📫 How to reach me ahern336@ucsc.edu
 
